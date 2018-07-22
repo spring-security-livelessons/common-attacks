@@ -9,12 +9,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>cache-control</module>
-        <module>clickjacking</module>
-        <module>csrf</module>
-        <module>session-fixation</module>
-        <module>rfd</module>
-        <module>xss</module>
+        <module>victim</module>
     </modules>
 </project>
 
