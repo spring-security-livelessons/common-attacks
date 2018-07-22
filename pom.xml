@@ -13,6 +13,7 @@
         <module>clickjacking</module>
         <module>csrf</module>
         <module>session-fixation</module>
+        <module>xss</module>
     </modules>
 </project>
 
