@@ -10,6 +10,7 @@
 
     <modules>
         <module>cache-control</module>
+        <module>https</module>
         <module>clickjacking</module>
         <module>csrf</module>
         <module>session-fixation</module>
