@@ -25,4 +25,5 @@ public class CacheControlApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CacheControlApplication.class, args);
 	}
+
 }

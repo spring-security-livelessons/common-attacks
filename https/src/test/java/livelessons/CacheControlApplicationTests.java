@@ -33,6 +33,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 @AutoConfigureMockMvc
 @RunWith(SpringRunner.class)
 public class CacheControlApplicationTests {
+
 	@Autowired
 	private WebDriver driver;
 
@@ -42,4 +43,5 @@ public class CacheControlApplicationTests {
 		index.assertAt();
 		assertThat(index.message()).isEqualTo("Hello Security!");
 	}
+
 }
